@@ -1,0 +1,1 @@
+["try:\n    print(1/0)\nexcept ZeroDivisionError as e:\n    print('Error:', e)"]
